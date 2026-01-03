@@ -62,8 +62,8 @@ and datasets.
 
 If you would like to connect or discuss data science, feel free to reach out:
 
-- GitHub: [Your GitHub Profile]
-- LinkedIn: [Your LinkedIn Profile]
+- GitHub: https://github.com/omesh1316
+- LinkedIn: https://www.linkedin.com/in/omesh-shewale-67ba792a3/
 
 ---
 
